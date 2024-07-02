@@ -1,0 +1,5 @@
+Django
+djangorestframework
+django-crispy-forms
+psycopg2-binary
+django-cors-headers
